@@ -45,14 +45,8 @@
   <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge" alt="Roboflow">
 </p>
 
-## What I'm exploring
+## Current Focus
 
-I'm growing my game-development skills while trying projects that connect software with the real world. One example is extending my camera-based wallet detector with more object datasets, models, and object-selection controls.
+Focused on game development and software projects that connect digital systems with real-world applications. Planned work includes expanding my computer-vision wallet detector with additional datasets and configurable object selection.
 
-<p align="center">
-  <a href="https://github.com/Eaziko">
-    <img src="https://img.shields.io/badge/GitHub-Eaziko-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile">
-  </a>
-</p>
-
-<p align="center"><em>Thanks for stopping by — feel free to explore my projects!</em></p>
+Explore my [public repositories](https://github.com/Eaziko?tab=repositories) for more projects.
