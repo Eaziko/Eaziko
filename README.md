@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eaziko/Lost-Object-Memory-System">
-    <img src="https://raw.githubusercontent.com/Eaziko/Lost-Object-Memory-System/main/docs/screenshots/dashboard-dark.png" alt="Lost Object Memory System dashboard" width="82%">
-  </a>
+  <img src="./game-dev-desk.gif" alt="Animated pixel-art game developer working at a desk, with a game on screen and a cat" width="82%">
 </p>
 
 ## About me
